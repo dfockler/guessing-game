@@ -23,8 +23,6 @@
     (def input (read-string (read-line)))
     (println (str "You guessed: " input))
     (def check (check-input secret-num input))
+    (println check)
     (if (not= "You win!" check)
-      (do 
-        (println check)
-        (recur))
-      (println check))))
+      (recur))))
