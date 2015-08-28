@@ -1,36 +1,12 @@
 # guessing-game
 
-FIXME: description
+Practice in Clojure, a simple number guessing game based on the Rust book example
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar guessing-game-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+$ java -jar guessing-game-0.1.0-standalone.jar
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Daniel Fockler
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
